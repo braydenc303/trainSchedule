@@ -1,3 +1,5 @@
+This assignment was not terribly difficult once we had completed all the relevant in class exercises. I do think that I will attempt some of the bonus features. I think I may have a simple work around for updating the times and minutes away.
+
 # trainSchedule
 Firebase homework assignment
 
